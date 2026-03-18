@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">🚀 Passionate Developer | 💻 Tech Enthusiast | 🇮🇳 India</h3>
+<h1 align="center">Hi 👋, I'm Vikash Kumar Sharma</h1>
+<h3 align="center">🚀 Passionate Developer | 💻 AI/ML Enthusiast | 🇮🇳 India</h3>
 
 ---
 
@@ -14,13 +14,13 @@
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/" target="blank">
+<a href="https://www.linkedin.com/in/vikash-kumar-85a34b288/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 <a href="https://twitter.com/" target="blank">
 <img src="https://skillicons.dev/icons?i=twitter" height="30" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:vikashkumar97983282@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
 </p>
