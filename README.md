@@ -51,7 +51,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vikashkumar97983282-glitch&theme=onedark&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=vikashkumar97983282-glitch&theme=onedark&no-frame=true&margin-w=10&row=1&column=6&cache_seconds=1800" />
 </p>
 
 ---
