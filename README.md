@@ -4,154 +4,148 @@
 🤖 AI / Machine Learning Engineer | 🐍 Python Developer | 💻 Full-Stack Developer | 🇮🇳 India
 </h3>
 
+<p align="center">
+  <a href="https://github.com/vikashkumar97983282-glitch">
+    <img src="https://komarev.com/ghpvc/?username=vikashkumar97983282-glitch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
-- 🤖 I'm passionate about **Artificial Intelligence and Machine Learning**
-- 🐍 I build applications using **Python, Flask, Pandas and Scikit-learn**
-- 🌐 I develop web applications using **React, Node.js and Express.js**
-- 👁️ I'm interested in **Computer Vision and OpenCV**
-- 💻 I practice **Data Structures & Algorithms using C/C++**
-- 🚀 I enjoy turning ideas and data into **practical applications**
-- 🔭 I'm currently working on **AI/ML and Full-Stack projects**
-- 👯 I'm open to collaborating on **Open Source and AI/ML projects**
+* 🤖 Passionate about **Artificial Intelligence and Machine Learning**
+* 🐍 Building applications with **Python, Flask, Pandas and Scikit-learn**
+* 🌐 Developing web applications with **React, Node.js and Express.js**
+* 👁️ Exploring **Computer Vision and OpenCV**
+* 💻 Practicing **Data Structures & Algorithms using C++**
+* 📊 Interested in **Data Analysis and Machine Learning**
+* 🚀 Building practical and data-driven applications
+* 🔭 Currently working on **AI/ML and Full-Stack projects**
+* 👯 Open to collaborating on **Open Source, AI/ML and Web Development projects**
 
 ---
 
-## 🚀 My Skills
+## 🚀 Technical Skills
 
 ### 🤖 AI / Machine Learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
 </p>
 
-- Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Data Analysis
-- Computer Vision
-- OpenCV
-- Data Preprocessing
-- Model Training & Evaluation
+**Python • NumPy • Pandas • Scikit-learn • Machine Learning • Data Analysis • Computer Vision • OpenCV**
 
 ---
 
 ### 🌐 Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,flask" height="45" alt="Web Technologies"/>
 </p>
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-- Node.js
-- Express.js
-- Flask
-- REST APIs
+**HTML • CSS • JavaScript • React • Tailwind CSS • Node.js • Express.js • Flask • REST APIs**
 
 ---
 
 ### 💻 Programming & DSA
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,python" height="45" alt="C++ and Python"/>
 </p>
 
-- C++
-- Python
-- Data Structures
-- Algorithms
-- Problem Solving
-- Time & Space Complexity
-- Object-Oriented Programming
+**C++ • Python • Data Structures • Algorithms • Problem Solving • OOP • Time & Space Complexity**
 
 ---
 
 ### 🗄️ Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
 </p>
 
-- MongoDB
-- Database Fundamentals
+**MongoDB • Database Fundamentals**
 
 ---
 
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,cmake" height="45" alt="Development Tools"/>
 </p>
 
-- Git & GitHub
-- VS Code
-- PyCharm
-- Linux
-- Google Colab
-- CMake
+**Git • GitHub • VS Code • PyCharm • Linux • Google Colab • CMake**
 
 ---
 
-## 📌 Featured Areas
+## 📌 What I Work With
 
-| Area | Technologies |
-|---|---|
-| 🤖 AI / ML | Python, Scikit-learn, Pandas, NumPy |
-| 👁️ Computer Vision | OpenCV |
-| 🌐 Backend | Flask, Node.js, Express.js |
-| ⚛️ Frontend | React, JavaScript, HTML, CSS, Tailwind |
-| 💻 Programming | C++, Python |
-| 🧠 DSA | Data Structures, Algorithms |
-| 🗄️ Database | MongoDB |
-| 🔧 Tools | Git, GitHub, CMake, Linux |
+| Area                | Technologies                               |
+| ------------------- | ------------------------------------------ |
+| 🤖 AI / ML          | Python, NumPy, Pandas, Scikit-learn        |
+| 👁️ Computer Vision | OpenCV                                     |
+| 📊 Data Analysis    | Pandas, NumPy, Python                      |
+| 🌐 Backend          | Flask, Node.js, Express.js                 |
+| ⚛️ Frontend         | React, JavaScript, HTML, CSS, Tailwind CSS |
+| 💻 Programming      | C++, Python                                |
+| 🧠 DSA              | Data Structures, Algorithms                |
+| 🗄️ Database        | MongoDB                                    |
+| 🔧 Tools            | Git, GitHub, CMake, Linux, Google Colab    |
 
 ---
 
-## 🌐 Connect with Me
+## 📂 Featured Projects
+
+### 🤖 Machine Learning Projects
+
+* Machine Learning models using **Python and Scikit-learn**
+* Data analysis and preprocessing using **Pandas and NumPy**
+* Computer Vision projects using **OpenCV**
+
+### 🌐 Full-Stack Projects
+
+* **Freelancing Web Application** — MERN Stack
+* **Flask Portfolio** — Python / Flask
+* React and Node.js based web applications
+
+### 💻 DSA & C++
+
+* Data Structures and Algorithms
+* Hashing
+* Arrays
+* Searching and Sorting
+* Problem Solving
+* Time and Space Complexity
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/vikash-kumar-85a34b288/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:vikashkumar97983282@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
-<a href="https://github.com/vikashkumar97983282-glitch" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
+  <a href="https://www.linkedin.com/in/vikash-kumar-85a34b288/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:vikashkumar97983282@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/vikashkumar97983282-glitch" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikashkumar97983282-glitch&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img src="https://streak-stats.demolab.com?user=vikashkumar97983282-glitch&theme=tokyonight" />
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumar97983282-glitch&layout=compact&theme=tokyonight&cache_seconds=1800" />
-
+  <a href="https://github.com/vikashkumar97983282-glitch">
+    <img src="https://img.shields.io/github/followers/vikashkumar97983282-glitch?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/vikashkumar97983282-glitch?tab=repositories">
+    <img src="https://img.shields.io/github/stars/vikashkumar97983282-glitch?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
+  </a>
 </p>
 
 ---
@@ -159,35 +153,43 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vikashkumar97983282-glitch&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
-
+  <a href="https://github.com/vikashkumar97983282-glitch">
+    <img src="https://github-profile-trophy.vercel.app/?username=vikashkumar97983282-glitch&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar97983282-glitch&theme=tokyo-night" />
-
+  <a href="https://github.com/vikashkumar97983282-glitch">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashkumar97983282-glitch&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
+  </a>
 </p>
 
 ---
 
-## ✨ Random Dev Quote
+## 🎯 Current Focus
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</p>
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Data Analysis
+        ↓
+Computer Vision
+        ↓
+Full-Stack Development
+        ↓
+Building Real-World Applications
+```
 
 ---
 
 <h3 align="center">
-🚀 Building with Python, AI, Machine Learning & Full-Stack Technologies
+🚀 Building intelligent solutions with Python, AI, Machine Learning & Full-Stack Technologies
 </h3>
 
 <h4 align="center">
